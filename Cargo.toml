@@ -5,3 +5,4 @@ members = [
 ]
 
 [workspace.dependencies]
+bevy = { version = "0.14" }
