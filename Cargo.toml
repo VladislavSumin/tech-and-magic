@@ -2,7 +2,7 @@
 resolver = "2"
 members = [
     "core/log",
-    "core/window",
+    "core/client/window",
     "client",
 ]
 

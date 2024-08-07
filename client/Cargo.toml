@@ -5,6 +5,6 @@ edition = "2021"
 
 [dependencies]
 core_log = { path = "../core/log" }
-core_window = { path = "../core/window" }
+core_client_window = { path = "../core/client/window" }
 
 bevy = { workspace = true }

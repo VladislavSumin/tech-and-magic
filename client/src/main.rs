@@ -1,7 +1,7 @@
 use bevy::diagnostic::{FrameTimeDiagnosticsPlugin, LogDiagnosticsPlugin};
 use bevy::prelude::*;
 use core_log::create_log_plugin;
-use core_window::create_window_plugin;
+use core_client_window::create_window_plugin;
 
 fn main() {
     App::new()
