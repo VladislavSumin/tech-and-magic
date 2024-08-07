@@ -1321,8 +1321,8 @@ name = "client"
 version = "0.1.0"
 dependencies = [
  "bevy",
- "core_client_window",
  "core_log",
+ "core_window",
 ]
 
 [[package]]
@@ -1469,14 +1469,14 @@ dependencies = [
 ]
 
 [[package]]
-name = "core_client_window"
+name = "core_log"
 version = "0.1.0"
 dependencies = [
  "bevy",
 ]
 
 [[package]]
-name = "core_log"
+name = "core_window"
 version = "0.1.0"
 dependencies = [
  "bevy",
